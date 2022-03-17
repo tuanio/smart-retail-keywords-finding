@@ -1,0 +1,8 @@
+auth:
+    email: 
+    pass: 
+
+waiting_time: 240
+sign_in_url: https://id.elsevier.com/as/authorization.oauth2?platSite=SD%2Fscience&scope=openid%20email%20profile%20els_auth_info%20els_idp_info%20els_idp_analytics_attrs%20els_sa_discover%20urn%3Acom%3Aelsevier%3Aidp%3Apolicy%3Aproduct%3Aindv_identity&response_type=code&redirect_uri=https%3A%2F%2Fwww.sciencedirect.com%2Fuser%2Fidentity%2Flanding&authType=SINGLE_SIGN_IN&prompt=login&client_id=SDFE-v3&state=retryCounter%3D0%26csrfToken%3Dcabfefe6-cfd0-4aaa-ab9a-6b4ab254ecb8%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Aindv_identity%26returnUrl%3D%252Fsearch%253Foffset%253D5900%2526qs%253Dsmart%252520retailing%2526show%253D100%26prompt%3Dlogin%26cid%3Datp-68519aa1-e6ba-4ab5-b45b-fd75c991b759
+
+url: 'https://www.sciencedirect.com/search?qs=smart%20retailing&show=100&offset={}'
